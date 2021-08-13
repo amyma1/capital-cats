@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.52bc3720.chunk.css",
-    "main.js": "/static/js/main.66fe8149.chunk.js",
-    "main.js.map": "/static/js/main.66fe8149.chunk.js.map",
+    "main.css": "/static/css/main.ecb76ab8.chunk.css",
+    "main.js": "/static/js/main.7927ac63.chunk.js",
+    "main.js.map": "/static/js/main.7927ac63.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76df4fdd.js",
     "runtime-main.js.map": "/static/js/runtime-main.76df4fdd.js.map",
-    "static/js/2.d344a22d.chunk.js": "/static/js/2.d344a22d.chunk.js",
-    "static/js/2.d344a22d.chunk.js.map": "/static/js/2.d344a22d.chunk.js.map",
+    "static/js/2.d63c58d4.chunk.js": "/static/js/2.d63c58d4.chunk.js",
+    "static/js/2.d63c58d4.chunk.js.map": "/static/js/2.d63c58d4.chunk.js.map",
     "static/js/3.9eeb4075.chunk.js": "/static/js/3.9eeb4075.chunk.js",
     "static/js/3.9eeb4075.chunk.js.map": "/static/js/3.9eeb4075.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.52bc3720.chunk.css.map": "/static/css/main.52bc3720.chunk.css.map",
-    "static/js/2.d344a22d.chunk.js.LICENSE.txt": "/static/js/2.d344a22d.chunk.js.LICENSE.txt",
+    "static/css/main.ecb76ab8.chunk.css.map": "/static/css/main.ecb76ab8.chunk.css.map",
+    "static/js/2.d63c58d4.chunk.js.LICENSE.txt": "/static/js/2.d63c58d4.chunk.js.LICENSE.txt",
+    "static/media/bg_3.18fd40e7.png": "/static/media/bg_3.18fd40e7.png",
     "static/media/boots.06c64f72.png": "/static/media/boots.06c64f72.png",
-    "static/media/cat 2.137e6ea0.jpg": "/static/media/cat 2.137e6ea0.jpg",
-    "static/media/cat1.b4bf1038.png": "/static/media/cat1.b4bf1038.png",
-    "static/media/food.43d203ae.jpg": "/static/media/food.43d203ae.jpg",
-    "static/media/hat.08d12b46.png": "/static/media/hat.08d12b46.png"
+    "static/media/cat_1_dress.fde26dab.png": "/static/media/cat_1_dress.fde26dab.png",
+    "static/media/cat_boots.78ea4a29.png": "/static/media/cat_boots.78ea4a29.png",
+    "static/media/cat_food_.59fb7460.png": "/static/media/cat_food_.59fb7460.png",
+    "static/media/cat_hat.fff0b72a.png": "/static/media/cat_hat.fff0b72a.png",
+    "static/media/cat_hat_boots.83f6ed5f.png": "/static/media/cat_hat_boots.83f6ed5f.png",
+    "static/media/hat.08d12b46.png": "/static/media/hat.08d12b46.png",
+    "static/media/the_fat_cat.f1d30dbf.png": "/static/media/the_fat_cat.f1d30dbf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76df4fdd.js",
-    "static/js/2.d344a22d.chunk.js",
-    "static/css/main.52bc3720.chunk.css",
-    "static/js/main.66fe8149.chunk.js"
+    "static/js/2.d63c58d4.chunk.js",
+    "static/css/main.ecb76ab8.chunk.css",
+    "static/js/main.7927ac63.chunk.js"
   ]
 }
